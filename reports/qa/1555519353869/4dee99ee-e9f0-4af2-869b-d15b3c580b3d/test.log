@@ -1,0 +1,2 @@
+[2019-04-17 07:42:38] [IMessager.java] [1] [INFO] INFO: '**************** Test execution summary ****************'.
+[2019-04-17 07:42:38] [IMessager.java] [1] [INFO] RESULT #1: TEST [Default test - testReset] FAIL [log=file://C:\Users\Asus\eclipse-workspace\LoginTest\.\reports\qa\1555519353869/Default_test_-_testReset/test.log]
